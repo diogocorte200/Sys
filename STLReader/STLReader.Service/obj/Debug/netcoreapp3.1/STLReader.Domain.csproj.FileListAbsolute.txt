@@ -1,0 +1,40 @@
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.deps.json
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.csproj.AssemblyReference.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.AssemblyInfoInputs.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.AssemblyInfo.cs
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.deps.json
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.csproj.AssemblyReference.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.AssemblyInfoInputs.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.AssemblyInfo.cs
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\workspace\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.deps.json
+C:\workspace\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\workspace\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\workspace\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.csproj.AssemblyReference.cache
+C:\workspace\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.AssemblyInfoInputs.cache
+C:\workspace\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.AssemblyInfo.cs
+C:\workspace\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\workspace\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\workspace\Sys\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.deps.json
+C:\workspace\Sys\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\workspace\Sys\STLReader\STLReader.Service\bin\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\workspace\Sys\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.csproj.AssemblyReference.cache
+C:\workspace\Sys\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Sys\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.AssemblyInfoInputs.cache
+C:\workspace\Sys\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.AssemblyInfo.cs
+C:\workspace\Sys\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\Sys\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\workspace\Sys\STLReader\STLReader.Service\obj\Debug\netcoreapp3.1\STLReader.Domain.pdb

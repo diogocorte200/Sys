@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EpPISRRAYNJ5PStSKqILJrrk0v56MP3HeWPxhkgR/1ZIeHhCrry32Yj9SXc1Iq5q5L3es2iHKCkv0hgaP5EAXA==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\Sys\\STLReader\\STLReader\\STLReader.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LATITUDE 5300  2-1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\LATITUDE 5300  2-1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LATITUDE 5300  2-1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\LATITUDE 5300  2-1\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "C:\\Users\\LATITUDE 5300  2-1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\LATITUDE 5300  2-1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\LATITUDE 5300  2-1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

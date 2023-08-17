@@ -1,0 +1,122 @@
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.exe
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.deps.json
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.runtimeconfig.json
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.runtimeconfig.dev.json
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.pdb
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.AssemblyInfoInputs.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.AssemblyInfo.cs
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.CoreCompileInputs.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\STLReader.API.StaticWebAssets.Manifest.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.RazorTargetAssemblyInfo.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.pdb
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.genruntimeconfig.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.AssemblyReference.cache
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.CopyComplete
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Monteiro\source\repos\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Monteiro\source\repos\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.exe
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.deps.json
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.runtimeconfig.json
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.runtimeconfig.dev.json
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.pdb
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.AssemblyReference.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.AssemblyInfoInputs.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.AssemblyInfo.cs
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\STLReader.API.StaticWebAssets.Manifest.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\STLReader.API.StaticWebAssets.xml
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\scopedcss\bundle\STLReader.API.styles.css
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.RazorTargetAssemblyInfo.cache
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.CopyComplete
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.dll
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.pdb
+C:\Users\LATITUDE 5300  2-1\Documents\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.genruntimeconfig.cache
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.StaticWebAssets.xml
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.exe
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.deps.json
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.runtimeconfig.json
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.runtimeconfig.dev.json
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.dll
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.pdb
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\workspace\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.AssemblyReference.cache
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.AssemblyInfoInputs.cache
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.AssemblyInfo.cs
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.CoreCompileInputs.cache
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.MvcApplicationPartsAssemblyInfo.cs
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\STLReader.API.StaticWebAssets.Manifest.cache
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\STLReader.API.StaticWebAssets.Pack.cache
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.STLReader.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.STLReader.API.props
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.STLReader.API.props
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.STLReader.API.props
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.RazorTargetAssemblyInfo.cache
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.CopyComplete
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.dll
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.pdb
+C:\workspace\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.genruntimeconfig.cache
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.exe
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.deps.json
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.runtimeconfig.json
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.runtimeconfig.dev.json
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.dll
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.API.pdb
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.Domain.dll
+C:\workspace\Sys\STLReader\STLReader\bin\Debug\netcoreapp3.1\STLReader.Domain.pdb
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.AssemblyReference.cache
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.AssemblyInfoInputs.cache
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.AssemblyInfo.cs
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.CoreCompileInputs.cache
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.MvcApplicationPartsAssemblyInfo.cs
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\STLReader.API.StaticWebAssets.Manifest.cache
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\staticwebassets\STLReader.API.StaticWebAssets.xml
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\scopedcss\bundle\STLReader.API.styles.css
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.RazorTargetAssemblyInfo.cache
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.csproj.CopyComplete
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.dll
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.pdb
+C:\workspace\Sys\STLReader\STLReader\obj\Debug\netcoreapp3.1\STLReader.API.genruntimeconfig.cache

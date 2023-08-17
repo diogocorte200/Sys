@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STLReader.API", "STLReader\STLReader.API.csproj", "{912C32E4-16BC-49C9-B23A-3DBAA9C04E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STLReader.Domain", "STLReader.Service\STLReader.Domain.csproj", "{3922F94F-5669-460A-9BF9-921BD3DF6C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912C32E4-16BC-49C9-B23A-3DBAA9C04E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912C32E4-16BC-49C9-B23A-3DBAA9C04E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912C32E4-16BC-49C9-B23A-3DBAA9C04E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912C32E4-16BC-49C9-B23A-3DBAA9C04E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3922F94F-5669-460A-9BF9-921BD3DF6C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3922F94F-5669-460A-9BF9-921BD3DF6C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3922F94F-5669-460A-9BF9-921BD3DF6C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3922F94F-5669-460A-9BF9-921BD3DF6C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B188D66E-4BD9-4A9F-AAC9-65B61C8C4DF3}
+	EndGlobalSection
+EndGlobal
